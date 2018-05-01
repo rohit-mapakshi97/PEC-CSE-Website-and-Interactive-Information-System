@@ -1,0 +1,17 @@
+
+#side-nav
+{
+	position:fixed;
+	max-width: 25%;
+}
+#my-content
+{
+	position: relative;
+	left: 25%;
+	
+}
+.error
+{
+	color: red;
+}
+
